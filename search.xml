@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Pytest</title>
+      <link href="2020/09/26/Pytest/"/>
+      <url>2020/09/26/Pytest/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Pycharm-设置"><a href="#Pycharm-设置" class="headerlink" title="Pycharm 设置"></a>Pycharm 设置</h2><p>Settings &gt; Tools &gt; Python Integrated Tools &gt; Testing &gt; Default test runner 设为 pytest</p><h2 id="Command"><a href="#Command" class="headerlink" title="Command"></a>Command</h2><p>参考: <a href="https://stackoverflow.com/a/34140498/14246844">PATH issue with pytest ‘ImportError: No module named YadaYadaYada’</a></p><ol><li>tests 文件夹位于根目录下</li><li>从命令行运行测试: <code>python -m pytest tests/</code></li></ol><h2 id="参数化测试"><a href="#参数化测试" class="headerlink" title="参数化测试"></a>参数化测试</h2><p>参考: <a href="https://mp.weixin.qq.com/s/a0-qO751fgL8cNaiLiUj4w">Pytest 参数化测试</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>远程常用commands</title>
       <link href="2020/09/22/%E8%BF%9C%E7%A8%8B%E5%B8%B8%E7%94%A8commands/"/>
       <url>2020/09/22/%E8%BF%9C%E7%A8%8B%E5%B8%B8%E7%94%A8commands/</url>
